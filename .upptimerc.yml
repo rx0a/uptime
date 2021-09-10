@@ -11,8 +11,8 @@ sites:
     url: https://idcl.us
   - name: suizadiamonds.com
     url: https://www.suizadiamonds.com
-#   - name: brokensite
-#     url: https://thissitedoesnotexist.koj.co
+  - name: brokensite
+    url: https://thissitedoesnotexist.koj.co
 
 status-website:
   theme: dark
