@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1736,
-    "timeDay": 1736,
-    "timeWeek": 1736,
-    "timeMonth": 1736,
-    "timeYear": 1736,
+    "time": 1748,
+    "timeDay": 1748,
+    "timeWeek": 1748,
+    "timeMonth": 1748,
+    "timeYear": 1748,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1003,
-    "timeDay": 1003,
-    "timeWeek": 1003,
-    "timeMonth": 1003,
-    "timeYear": 1003,
+    "time": 983,
+    "timeDay": 983,
+    "timeWeek": 983,
+    "timeMonth": 983,
+    "timeYear": 983,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1446,
-    "timeDay": 1446,
-    "timeWeek": 1446,
-    "timeMonth": 1446,
-    "timeYear": 1446,
+    "time": 1586,
+    "timeDay": 1586,
+    "timeWeek": 1586,
+    "timeMonth": 1586,
+    "timeYear": 1586,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +64,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 628,
-    "timeDay": 628,
-    "timeWeek": 628,
-    "timeMonth": 628,
-    "timeYear": 628,
+    "time": 543,
+    "timeDay": 543,
+    "timeWeek": 543,
+    "timeMonth": 543,
+    "timeYear": 543,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "brokensite",
+    "url": "https://thissitedoesnotexist.koj.co",
+    "icon": "https://favicons.githubusercontent.com/thissitedoesnotexist.koj.co",
+    "slug": "brokensite",
+    "status": "down",
+    "uptime": "12.76%",
+    "uptimeDay": "12.76%",
+    "uptimeWeek": "12.76%",
+    "uptimeMonth": "12.76%",
+    "uptimeYear": "12.76%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2021-09-10": 0
+    }
   }
 ]
