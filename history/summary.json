@@ -1,20 +1,20 @@
 [
   {
-    "name": "shreius.com",
+    "name": "shredius.com",
     "url": "https://shredius.com",
     "icon": "https://favicons.githubusercontent.com/shredius.com",
-    "slug": "shreius-com",
+    "slug": "shredius-com",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1662,
-    "timeDay": 1662,
-    "timeWeek": 1662,
-    "timeMonth": 1662,
-    "timeYear": 1662,
+    "time": 1733,
+    "timeDay": 1733,
+    "timeWeek": 1733,
+    "timeMonth": 1733,
+    "timeYear": 1733,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 934,
-    "timeDay": 934,
-    "timeWeek": 934,
-    "timeMonth": 934,
-    "timeYear": 934,
+    "time": 935,
+    "timeDay": 935,
+    "timeWeek": 935,
+    "timeMonth": 935,
+    "timeYear": 935,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1441,
-    "timeDay": 1441,
-    "timeWeek": 1441,
-    "timeMonth": 1441,
-    "timeYear": 1441,
+    "time": 1472,
+    "timeDay": 1472,
+    "timeWeek": 1472,
+    "timeMonth": 1472,
+    "timeYear": 1472,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1256,
-    "timeDay": 1256,
-    "timeWeek": 1256,
-    "timeMonth": 1256,
-    "timeYear": 1256,
+    "time": 786,
+    "timeDay": 786,
+    "timeWeek": 786,
+    "timeMonth": 786,
+    "timeYear": 786,
     "dailyMinutesDown": {}
   }
 ]
