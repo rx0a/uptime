@@ -40,9 +40,9 @@
     "url": "https://idcl.us",
     "icon": "https://favicons.githubusercontent.com/idcl.us",
     "slug": "idcl-us",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +51,9 @@
     "timeWeek": 2027,
     "timeMonth": 2027,
     "timeYear": 2027,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-14": 0
+    }
   },
   {
     "name": "suizadiamonds.com",
