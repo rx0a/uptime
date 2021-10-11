@@ -4,19 +4,19 @@
     "url": "https://shredius.com",
     "icon": "https://favicons.githubusercontent.com/shredius.com",
     "slug": "shredius-com",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1878,
-    "timeDay": 1067,
-    "timeWeek": 1371,
-    "timeMonth": 1909,
-    "timeYear": 1878,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.30%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 1857,
+    "timeDay": 1053,
+    "timeWeek": 1329,
+    "timeMonth": 1882,
+    "timeYear": 1857,
     "dailyMinutesDown": {
-      "2021-10-11": 1
+      "2021-10-11": 10
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://rayspace.co",
     "icon": "https://favicons.githubusercontent.com/rayspace.co",
     "slug": "rayspace-co",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1225,
-    "timeDay": 1014,
-    "timeWeek": 1776,
-    "timeMonth": 1285,
-    "timeYear": 1225,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.34%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 1219,
+    "timeDay": 984,
+    "timeWeek": 1673,
+    "timeMonth": 1275,
+    "timeYear": 1219,
     "dailyMinutesDown": {
-      "2021-10-11": 1
+      "2021-10-11": 10
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://www.suizadiamonds.com",
     "icon": "https://favicons.githubusercontent.com/www.suizadiamonds.com",
     "slug": "suizadiamonds-com",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1191,
-    "timeDay": 2182,
-    "timeWeek": 2060,
-    "timeMonth": 1301,
-    "timeYear": 1191,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.37%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 1210,
+    "timeDay": 2076,
+    "timeWeek": 2049,
+    "timeMonth": 1322,
+    "timeYear": 1210,
     "dailyMinutesDown": {
-      "2021-10-11": 0
+      "2021-10-11": 9
     }
   }
 ]
