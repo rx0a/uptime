@@ -5,19 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/shredius.com",
     "slug": "shredius-com",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.30%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 1857,
-    "timeDay": 1053,
-    "timeWeek": 1329,
-    "timeMonth": 1882,
-    "timeYear": 1857,
-    "dailyMinutesDown": {
-      "2021-10-11": 10
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1835,
+    "timeDay": 1004,
+    "timeWeek": 1187,
+    "timeMonth": 1817,
+    "timeYear": 1835,
+    "dailyMinutesDown": {}
   },
   {
     "name": "rayspace.co",
@@ -25,19 +23,17 @@
     "icon": "https://favicons.githubusercontent.com/rayspace.co",
     "slug": "rayspace-co",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 1219,
-    "timeDay": 984,
-    "timeWeek": 1673,
-    "timeMonth": 1275,
-    "timeYear": 1219,
-    "dailyMinutesDown": {
-      "2021-10-11": 10
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1211,
+    "timeDay": 934,
+    "timeWeek": 1647,
+    "timeMonth": 1270,
+    "timeYear": 1211,
+    "dailyMinutesDown": {}
   },
   {
     "name": "suizadiamonds.com",
@@ -45,18 +41,16 @@
     "icon": "https://favicons.githubusercontent.com/www.suizadiamonds.com",
     "slug": "suizadiamonds-com",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.37%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 1210,
-    "timeDay": 2076,
-    "timeWeek": 2049,
-    "timeMonth": 1322,
-    "timeYear": 1210,
-    "dailyMinutesDown": {
-      "2021-10-11": 9
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1227,
+    "timeDay": 1948,
+    "timeWeek": 2026,
+    "timeMonth": 1344,
+    "timeYear": 1227,
+    "dailyMinutesDown": {}
   }
 ]
