@@ -22,10 +22,10 @@
     "url": "https://rayspace.co",
     "icon": "https://favicons.githubusercontent.com/rayspace.co",
     "slug": "rayspace-co",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1206,
@@ -33,16 +33,18 @@
     "timeWeek": 1285,
     "timeMonth": 1339,
     "timeYear": 1206,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-23": 1
+    }
   },
   {
     "name": "suizadiamonds.com",
     "url": "https://www.suizadiamonds.com",
     "icon": "https://favicons.githubusercontent.com/www.suizadiamonds.com",
     "slug": "suizadiamonds-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,6 +53,8 @@
     "timeWeek": 1825,
     "timeMonth": 1487,
     "timeYear": 1303,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-23": 0
+    }
   }
 ]
