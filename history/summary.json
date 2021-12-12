@@ -4,9 +4,9 @@
     "url": "https://shredius.com",
     "icon": "https://favicons.githubusercontent.com/shredius.com",
     "slug": "shredius-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
@@ -16,6 +16,7 @@
     "timeMonth": 1111,
     "timeYear": 1453,
     "dailyMinutesDown": {
+      "2021-12-12": 0,
       "2021-11-09": 64
     }
   },
