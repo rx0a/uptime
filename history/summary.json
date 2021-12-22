@@ -4,10 +4,10 @@
     "url": "https://shredius.com",
     "icon": "https://favicons.githubusercontent.com/shredius.com",
     "slug": "shredius-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 1460,
@@ -16,6 +16,7 @@
     "timeMonth": 1288,
     "timeYear": 1460,
     "dailyMinutesDown": {
+      "2021-12-22": 1,
       "2021-11-09": 64
     }
   },
@@ -24,10 +25,10 @@
     "url": "https://rayspace.co",
     "icon": "https://favicons.githubusercontent.com/rayspace.co",
     "slug": "rayspace-co",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.90%",
     "time": 1370,
@@ -36,6 +37,7 @@
     "timeMonth": 1680,
     "timeYear": 1370,
     "dailyMinutesDown": {
+      "2021-12-22": 1,
       "2021-11-24": 27,
       "2021-11-09": 93,
       "2021-10-23": 25
@@ -46,9 +48,9 @@
     "url": "https://www.suizadiamonds.com",
     "icon": "https://favicons.githubusercontent.com/www.suizadiamonds.com",
     "slug": "suizadiamonds-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.88%",
@@ -58,6 +60,7 @@
     "timeMonth": 1858,
     "timeYear": 1407,
     "dailyMinutesDown": {
+      "2021-12-22": 0,
       "2021-11-24": 45,
       "2021-11-09": 102,
       "2021-10-23": 24
