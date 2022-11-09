@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/shredius.com.ico",
     "slug": "shredius-com",
     "status": "up",
-    "uptime": "92.79%",
+    "uptime": "92.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "91.64%",
-    "time": 1837,
-    "timeDay": 1187,
-    "timeWeek": 1126,
-    "timeMonth": 1156,
-    "timeYear": 1877,
+    "uptimeYear": "91.65%",
+    "time": 1836,
+    "timeDay": 1308,
+    "timeWeek": 1139,
+    "timeMonth": 1164,
+    "timeYear": 1880,
     "dailyMinutesDown": {
       "2022-09-15": 514,
       "2022-08-27": 940,
@@ -58,8 +58,7 @@
       "2022-01-22": 67,
       "2022-01-03": 18,
       "2021-12-24": 179,
-      "2021-12-22": 15,
-      "2021-11-09": 64
+      "2021-12-22": 15
     }
   },
   {
@@ -68,16 +67,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/rayspace.co.ico",
     "slug": "rayspace-co",
     "status": "up",
-    "uptime": "92.76%",
+    "uptime": "92.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "91.61%",
-    "time": 1550,
-    "timeDay": 1854,
-    "timeWeek": 1876,
-    "timeMonth": 1386,
-    "timeYear": 1628,
+    "uptimeYear": "91.62%",
+    "time": 1551,
+    "timeDay": 2044,
+    "timeWeek": 1872,
+    "timeMonth": 1416,
+    "timeYear": 1632,
     "dailyMinutesDown": {
       "2022-09-15": 514,
       "2022-08-27": 941,
@@ -121,8 +120,7 @@
       "2022-04-25": 138,
       "2022-01-22": 77,
       "2021-12-24": 179,
-      "2021-11-24": 27,
-      "2021-11-09": 93
+      "2021-11-24": 27
     }
   },
   {
@@ -131,16 +129,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.suizadiamonds.com.ico",
     "slug": "suizadiamonds-com",
     "status": "up",
-    "uptime": "92.78%",
+    "uptime": "92.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "91.63%",
-    "time": 1711,
-    "timeDay": 385,
-    "timeWeek": 622,
-    "timeMonth": 1014,
-    "timeYear": 1800,
+    "uptimeYear": "91.64%",
+    "time": 1708,
+    "timeDay": 537,
+    "timeWeek": 465,
+    "timeMonth": 984,
+    "timeYear": 1803,
     "dailyMinutesDown": {
       "2022-09-15": 513,
       "2022-08-27": 941,
@@ -183,8 +181,7 @@
       "2022-01-22": 59,
       "2021-12-24": 179,
       "2021-12-22": 15,
-      "2021-11-24": 45,
-      "2021-11-09": 102
+      "2021-11-24": 45
     }
   }
 ]
