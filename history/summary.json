@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/shredius.com.ico",
     "slug": "shredius-com",
     "status": "up",
-    "uptime": "93.04%",
+    "uptime": "93.05%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "91.65%",
-    "time": 1815,
-    "timeDay": 1015,
-    "timeWeek": 1144,
-    "timeMonth": 1183,
+    "time": 1813,
+    "timeDay": 957,
+    "timeWeek": 1100,
+    "timeMonth": 1169,
     "timeYear": 1886,
     "dailyMinutesDown": {
       "2022-09-15": 514,
@@ -67,16 +67,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/rayspace.co.ico",
     "slug": "rayspace-co",
     "status": "up",
-    "uptime": "93.01%",
+    "uptime": "93.02%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "91.63%",
-    "time": 1539,
-    "timeDay": 1106,
-    "timeWeek": 1170,
-    "timeMonth": 1429,
-    "timeYear": 1609,
+    "time": 1537,
+    "timeDay": 837,
+    "timeWeek": 1101,
+    "timeMonth": 1392,
+    "timeYear": 1608,
     "dailyMinutesDown": {
       "2022-09-15": 514,
       "2022-08-27": 941,
@@ -119,8 +119,7 @@
       "2022-05-22": 19,
       "2022-04-25": 138,
       "2022-01-22": 77,
-      "2021-12-24": 179,
-      "2021-11-24": 27
+      "2021-12-24": 179
     }
   },
   {
@@ -129,15 +128,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.suizadiamonds.com.ico",
     "slug": "suizadiamonds-com",
     "status": "up",
-    "uptime": "93.03%",
+    "uptime": "93.04%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "91.65%",
-    "time": 1695,
-    "timeDay": 1892,
-    "timeWeek": 1333,
-    "timeMonth": 1062,
+    "time": 1694,
+    "timeDay": 1190,
+    "timeWeek": 1275,
+    "timeMonth": 1088,
     "timeYear": 1810,
     "dailyMinutesDown": {
       "2022-09-15": 513,
@@ -180,8 +179,7 @@
       "2022-04-25": 137,
       "2022-01-22": 59,
       "2021-12-24": 179,
-      "2021-12-22": 15,
-      "2021-11-24": 45
+      "2021-12-22": 15
     }
   }
 ]
