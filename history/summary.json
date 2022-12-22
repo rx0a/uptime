@@ -5,14 +5,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/shredius.com.ico",
     "slug": "shredius-com",
     "status": "up",
-    "uptime": "93.37%",
+    "uptime": "93.38%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.83%",
     "uptimeMonth": "98.69%",
     "uptimeYear": "91.54%",
-    "time": 1815,
-    "timeDay": 1221,
-    "timeWeek": 1098,
+    "time": 1814,
+    "timeDay": 1190,
+    "timeWeek": 1129,
     "timeMonth": 1769,
     "timeYear": 1928,
     "dailyMinutesDown": {
@@ -60,8 +60,7 @@
       "2022-04-25": 138,
       "2022-01-22": 67,
       "2022-01-03": 18,
-      "2021-12-24": 179,
-      "2021-12-22": 15
+      "2021-12-24": 179
     }
   },
   {
@@ -70,16 +69,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/rayspace.co.ico",
     "slug": "rayspace-co",
     "status": "up",
-    "uptime": "93.34%",
+    "uptime": "93.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.73%",
     "uptimeYear": "91.53%",
-    "time": 1540,
-    "timeDay": 1167,
-    "timeWeek": 1769,
-    "timeMonth": 1530,
-    "timeYear": 1595,
+    "time": 1539,
+    "timeDay": 1122,
+    "timeWeek": 1804,
+    "timeMonth": 1522,
+    "timeYear": 1596,
     "dailyMinutesDown": {
       "2022-11-26": 414,
       "2022-11-25": 141,
@@ -133,15 +132,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.suizadiamonds.com.ico",
     "slug": "suizadiamonds-com",
     "status": "up",
-    "uptime": "93.36%",
+    "uptime": "93.38%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.73%",
     "uptimeYear": "91.55%",
-    "time": 1651,
-    "timeDay": 1527,
-    "timeWeek": 756,
-    "timeMonth": 992,
+    "time": 1648,
+    "timeDay": 534,
+    "timeWeek": 665,
+    "timeMonth": 960,
     "timeYear": 1729,
     "dailyMinutesDown": {
       "2022-11-26": 414,
@@ -185,8 +184,7 @@
       "2022-05-22": 19,
       "2022-04-25": 137,
       "2022-01-22": 59,
-      "2021-12-24": 179,
-      "2021-12-22": 15
+      "2021-12-24": 179
     }
   }
 ]
