@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/shredius.com.ico",
     "slug": "shredius-com",
     "status": "up",
-    "uptime": "93.40%",
+    "uptime": "93.41%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.83%",
     "uptimeMonth": "98.69%",
     "uptimeYear": "91.54%",
-    "time": 1812,
-    "timeDay": 982,
-    "timeWeek": 1133,
-    "timeMonth": 1768,
+    "time": 1810,
+    "timeDay": 1118,
+    "timeWeek": 1117,
+    "timeMonth": 1773,
     "timeYear": 1801,
     "dailyMinutesDown": {
       "2022-12-18": 17,
@@ -59,8 +59,7 @@
       "2022-05-22": 20,
       "2022-04-25": 138,
       "2022-01-22": 67,
-      "2022-01-03": 18,
-      "2021-12-24": 179
+      "2022-01-03": 18
     }
   },
   {
@@ -69,15 +68,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/rayspace.co.ico",
     "slug": "rayspace-co",
     "status": "up",
-    "uptime": "93.37%",
+    "uptime": "93.39%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.73%",
     "uptimeYear": "91.53%",
-    "time": 1536,
-    "timeDay": 144,
-    "timeWeek": 1806,
-    "timeMonth": 1491,
+    "time": 1533,
+    "timeDay": 300,
+    "timeWeek": 1807,
+    "timeMonth": 1474,
     "timeYear": 1577,
     "dailyMinutesDown": {
       "2022-11-26": 414,
@@ -122,8 +121,7 @@
       "2022-06-12": 18,
       "2022-05-22": 19,
       "2022-04-25": 138,
-      "2022-01-22": 77,
-      "2021-12-24": 179
+      "2022-01-22": 77
     }
   },
   {
@@ -132,16 +130,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.suizadiamonds.com.ico",
     "slug": "suizadiamonds-com",
     "status": "up",
-    "uptime": "93.39%",
+    "uptime": "93.40%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.73%",
     "uptimeYear": "91.56%",
     "time": 1691,
-    "timeDay": 1146,
-    "timeWeek": 662,
-    "timeMonth": 935,
-    "timeYear": 1714,
+    "timeDay": 1337,
+    "timeWeek": 802,
+    "timeMonth": 940,
+    "timeYear": 1715,
     "dailyMinutesDown": {
       "2022-11-26": 414,
       "2022-11-25": 141,
@@ -183,8 +181,7 @@
       "2022-07-09": 986,
       "2022-05-22": 19,
       "2022-04-25": 137,
-      "2022-01-22": 59,
-      "2021-12-24": 179
+      "2022-01-22": 59
     }
   }
 ]
