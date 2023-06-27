@@ -5,8 +5,8 @@ repo: uptime # The name of this repository
 sites:
   - name: rayspace.dev
     url: https://rayspace.dev
-  - name: suizadiamonds.com
-    url: https://www.suizadiamonds.com
+  # - name: suizadiamonds.com
+  #   url: https://www.suizadiamonds.com
 
 status-website:
   theme: dark
