@@ -1,7 +1,7 @@
 url: https://rayspace.dev
-status: up
-code: 200
-responseTime: 88
-lastUpdated: 2023-10-17T04:19:28.332Z
+status: down
+code: 503
+responseTime: 74
+lastUpdated: 2023-10-17T13:51:37.825Z
 startTime: 2023-05-14T01:51:03.000Z
 generator: Upptime <https://github.com/upptime/upptime>
