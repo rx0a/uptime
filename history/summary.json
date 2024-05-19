@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/rayspace.dev.ico",
     "slug": "rayspace-dev",
     "status": "up",
-    "uptime": "87.88%",
+    "uptime": "87.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "88.79%",
+    "uptimeYear": "89.07%",
     "time": 212,
-    "timeDay": 76,
-    "timeWeek": 193,
-    "timeMonth": 185,
+    "timeDay": 56,
+    "timeWeek": 164,
+    "timeMonth": 178,
     "timeYear": 212,
     "dailyMinutesDown": {
       "2024-04-10": 20,
@@ -66,8 +66,7 @@
       "2023-05-24": 1440,
       "2023-05-23": 1440,
       "2023-05-22": 1440,
-      "2023-05-21": 1440,
-      "2023-05-20": 1440
+      "2023-05-21": 1440
     }
   }
 ]
