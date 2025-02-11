@@ -4,7 +4,7 @@
     "url": "https://rayspace.dev",
     "icon": "https://icons.duckduckgo.com/ip3/rayspace.dev.ico",
     "slug": "rayspace-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "92.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 318,
     "timeYear": 217,
     "dailyMinutesDown": {
+      "2025-02-11": 0,
       "2024-12-01": 28,
       "2024-11-12": 178,
       "2024-08-29": 133,
